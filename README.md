@@ -1,5 +1,7 @@
 # DIC
 DATA COLLECTION AND EXPLORATORY DATA ANALYSIS
+
+
 1.Collected data by querying Twitter REST API. Created a developer account on twitter and also got the 
 credentials for the application. Queried word related to “flu”.
 2. Processed data using twitteR [7] library package of R.
